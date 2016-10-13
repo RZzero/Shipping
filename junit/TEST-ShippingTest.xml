@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="1" failures="0" hostname="freedom-Aspire-E5-573G" name="ShippingTest" skipped="0" tests="1" time="0.0" timestamp="2016-10-13T16:41:55">
+<testsuite errors="0" failures="0" hostname="freedom-Aspire-E5-573G" name="ShippingTest" skipped="0" tests="1" time="0.054" timestamp="2016-10-13T16:49:22">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.SESSION_MANAGER" value="local/freedom-Aspire-E5-573G:@/tmp/.ICE-unix/2089,unix/freedom-Aspire-E5-573G:/tmp/.ICE-unix/2089" />
@@ -98,8 +98,8 @@
     <property name="env.XDG_SEAT" value="seat0" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on July 8 2015" />
-    <property name="java.class.path" value="/home/freedom/Programs/eclipse/plugins/org.junit_4.12.0.v201504281640/junit.jar:/home/freedom/Programs/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar:/usr/share/java/ant-launcher-1.9.6.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner ShippingTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/freedom/workspace/Tecnicas-Lab3/junit/TEST-ShippingTest.xml crashfile=/home/freedom/workspace/Tecnicas-Lab3/junitvmwatcher6698717983846967201.properties propsfile=/home/freedom/workspace/Tecnicas-Lab3/junit8640126517305399282.properties" />
+    <property name="java.class.path" value="/home/freedom/workspace/Tecnicas-Lab3/bin:/home/freedom/workspace/Tecnicas-Lab3/lib/junit-4.12.jar:/home/freedom/workspace/Tecnicas-Lab3/lib/hamcrest-core-1.3.jar:/usr/share/java/ant-launcher-1.9.6.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner ShippingTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/freedom/workspace/Tecnicas-Lab3/junit/TEST-ShippingTest.xml crashfile=/home/freedom/workspace/Tecnicas-Lab3/junitvmwatcher4696144054830670601.properties propsfile=/home/freedom/workspace/Tecnicas-Lab3/junit1068545117898308879.properties" />
     <property name="env.MDM_XSERVER_LOCATION" value="local" />
     <property name="env.XDG_SESSION_ID" value="c2" />
     <property name="env.XFILESEARCHPATH" value="/usr/dt/app-defaults/%L/Dt" />
@@ -141,14 +141,7 @@
     <property name="ant.project.invoked-targets" value="ShippingTest" />
     <property name="env.LC_NAME" value="es_DO.UTF-8" />
   </properties>
-  <error message="ShippingTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: ShippingTest
-	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
-	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
-	at java.lang.Class.forName0(Native Method)
-	at java.lang.Class.forName(Class.java:264)
-</error>
+  <testcase classname="ShippingTest" name="testCalcShipping" time="0.001" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
