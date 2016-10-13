@@ -12,7 +12,7 @@ public class Shipping {
 	public double CalcShipping(String ItemType, double price){
 		
 		double shipping = 0;
-		String items;
+		String item;
 		item = ItemType.toLowerCase();
 
 		
