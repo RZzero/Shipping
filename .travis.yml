@@ -1,6 +1,6 @@
 language: java
 
-ant ShippingTest
+script: ant ShippingTest
 
 jdk:
   - oraclejdk8
