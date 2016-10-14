@@ -1,6 +1,6 @@
 # Shipping
 
-This an example of Continous Integration created for the final Project of Construcción de Software imparted at INTEC.
+This an example of Continous Integration created for the final project of Construcción de Software imparted at INTEC.
 
 This continous integration environment is powered by:<br>
   *Ant*<br>
