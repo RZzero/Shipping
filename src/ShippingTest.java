@@ -16,7 +16,7 @@ public class ShippingTest {
 		double test5 = a.CalcShipping("iPhone", 650);
 		double test6 = a.CalcShipping("Jeans", 50);
 
-		assertssEquals(0.45, test1, 0.001);
+		assertEquals(0.45, test1, 0.001);
 		assertEquals(0.00, test2, 0.001);
 		assertEquals(0.00, test3, 0.001);
 		assertEquals(0.00, test4, 0.001);
