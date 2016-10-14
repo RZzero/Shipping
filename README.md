@@ -2,7 +2,7 @@
 
 This an example of Continous Integration created for the final Project of Construcción de Software imparted at INTEC.
 
-This continous integration environment is powered by:
+This continous integration environment is powered by:<br>
   *Ant*<br>
   *Java 8*<br>
   *Travis CI*<br>
