@@ -3,9 +3,9 @@
 This an example of Continous Integration created for the final Project of Construcción de Software imparted at INTEC.
 
 This continous integration environment is powered by:
-  *Ant*
-  *Java 8*
-  *Travis CI*
+  *Ant*<br>
+  *Java 8*<br>
+  *Travis CI*<br>
   *GitHub*
 
 # Members:
