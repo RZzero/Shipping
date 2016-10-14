@@ -5,5 +5,3 @@ script: ant junitreport
  
 jdk:
   - oraclejdk8
-  - oraclejdk7
-  - openjdk6
