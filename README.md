@@ -1,6 +1,6 @@
 # Shipping
 
-This an example created for the Final Project of Construcción de Software imparted at INTEC.
+This an example created for the final Project of Construcción de Software imparted at INTEC.
 
 
 
