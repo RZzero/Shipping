@@ -21,7 +21,7 @@ public class ShippingTest {
 		assertEquals(0.00, test3, 0.001);
 		assertEquals(0.00, test4, 0.001);
 		assertEquals(5.00, test5, 0.001);
-		assertEquals(3.50, test6, 0.001);
+		assertEquals(2.50, test6, 0.001);
 
 	}
 
