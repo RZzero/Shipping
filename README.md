@@ -1,8 +1,12 @@
 # Shipping
 
-This an example created for the final Project of Construcción de Software imparted at INTEC.
+This an example of Continous Integration created for the final Project of Construcción de Software imparted at INTEC.
 
-
+This continous integration environment is powered by:
+  *Ant*
+  *Java 8*
+  *Travis CI*
+  *GitHub*
 
 # Members:
 
